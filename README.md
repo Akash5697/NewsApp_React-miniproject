@@ -1,4 +1,6 @@
-NewApp
+NewsApp_React-Miniproject
+
+
 NewApp is a React-based web application designed to provide users with the latest news articles across various categories, including Sports, Politics, Entertainment, Health, and Fitness. The application offers a user-friendly interface, allowing users to search for news topics of interest and access up-to-date information seamlessly.
 
 Features
